@@ -1,0 +1,24 @@
+{
+  "name": "lab_test_2_parth_raval_ c0854965",
+  "version": "1.0.0",
+  "description": "lab test 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parth2107/MADT6135LABTEST2.git"
+  },
+  "author": "Souvik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^5.1.3",
+    "helmet": "^4.1.1",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.4"
+  }
+}
